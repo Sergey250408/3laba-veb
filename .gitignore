@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+env/
+data/xml/*.xml
+data/json/*.json
+!data/xml/.gitkeep
+!data/json/.gitkeep
